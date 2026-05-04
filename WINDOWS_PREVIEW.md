@@ -26,3 +26,6 @@ python -m http.server 8000
 - `python` がないと言われる: Pythonをインストール（インストール時に「Add Python to PATH」をON）。
 - 8000番が使われている: `python -m http.server 8080` に変更し、
   `http://localhost:8080/previews/index.html` を開く。
+
+## localhostが拒否されるとき（ERR_CONNECTION_REFUSED）
+サーバー起動に失敗している状態です。すぐ見たいなら、`previews/offline_preview.html` をダブルクリックしてください（サーバー不要）。
