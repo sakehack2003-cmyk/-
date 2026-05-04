@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#F5EEE4"/><stop offset="100%" stop-color="#E6DCD2"/></linearGradient></defs>
+  <rect width="1080" height="1920" fill="url(#bg2)"/>
+  <text x="80" y="170" fill="#281C14" font-size="80" font-weight="700">3つの魅力</text>
+  <g font-family="'Hiragino Sans','Noto Sans JP',sans-serif">
+    <rect x="80" y="280" width="920" height="390" rx="32" fill="#fff" stroke="#785A46"/>
+    <circle cx="180" cy="380" r="60" fill="#462D19"/><text x="150" y="395" fill="#fff" font-size="34">01</text>
+    <text x="280" y="370" font-size="48" fill="#322316" font-weight="700">12〜24時間で熟成風味</text>
+    <text x="280" y="460" font-size="36" fill="#514134">ボトルに入れて待つだけで、深みある香りに。</text>
+
+    <rect x="80" y="750" width="920" height="390" rx="32" fill="#fff" stroke="#785A46"/>
+    <circle cx="180" cy="850" r="60" fill="#462D19"/><text x="150" y="865" fill="#fff" font-size="34">02</text>
+    <text x="280" y="840" font-size="48" fill="#322316" font-weight="700">7種の国産銘木</text>
+    <text x="280" y="930" font-size="36" fill="#514134">木材ごとの香りの違いを飲み比べで楽しめる。</text>
+
+    <rect x="80" y="1220" width="920" height="390" rx="32" fill="#fff" stroke="#785A46"/>
+    <circle cx="180" cy="1320" r="60" fill="#462D19"/><text x="150" y="1335" fill="#fff" font-size="34">03</text>
+    <text x="280" y="1310" font-size="46" fill="#322316" font-weight="700">林業応援にもつながる</text>
+    <text x="280" y="1400" font-size="34" fill="#514134">間伐材・余材の有効活用でサステナブルに美味しさを。</text>
+  </g>
+</svg>
