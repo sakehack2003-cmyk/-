@@ -1,0 +1,31 @@
+# SAKE HACK LP画像クリエイティブ
+
+参照LP（BULK HOMME）の「強いファーストビュー」「ベネフィットの分解」「CTAを繰り返す」構成を参考に、#酒ハック向けの静止画クリエイティブ3枚を作成。
+
+## 生成ファイル
+- `lp_creative_01_hero.svg` : ファーストビュー訴求
+- `lp_creative_02_features.svg` : 3つの魅力整理
+- `lp_creative_03_cta.svg` : 購買直前CTA
+
+## 設計意図
+1. ダークブラウン基調で「樽熟成」「木の香り」を連想させるトーン。
+2. 見出し→短い説明→ボタンの順で視線誘導。
+3. モバイル縦長（1080x1920）を想定し、SNS広告流用もしやすい比率に統一。
+
+## コピー案（必要に応じて差し替え）
+- 「わずか半日で、いつもの一杯を樽熟成の味わいへ。」
+- 「7種の国産銘木で、香りの違いを飲み比べ。」
+- 「あなたの理想の一杯を、今日から。」
+
+## 追加対応（項目ごと分割・プレビュー）
+- `split_items/feature_01.svg`
+- `split_items/feature_02.svg`
+- `split_items/feature_03.svg`
+
+ローカルプレビュー用に `previews/index.html` を追加。3枚の本番用と分割パーツを同時比較できます。
+
+PNG書き出しが必要な場合は `./export_images.sh` を実行してください（`inkscape` が必要）。
+
+## Windows + Chromeで見れない場合
+`WINDOWS_PREVIEW.md` の手順どおり、`python -m http.server` でローカルサーバーを立てて
+`http://localhost:8000/previews/index.html` をChromeで開いてください。

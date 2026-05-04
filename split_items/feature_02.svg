@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="640" viewBox="0 0 1080 640">
+  <rect width="1080" height="640" fill="#F5EEE4"/>
+  <rect x="60" y="60" width="960" height="520" rx="32" fill="#fff" stroke="#785A46"/>
+  <circle cx="170" cy="180" r="60" fill="#462D19"/><text x="140" y="194" fill="#fff" font-size="34">02</text>
+  <text x="270" y="180" font-size="60" fill="#322316" font-weight="700">7種の国産銘木</text>
+  <text x="270" y="280" font-size="42" fill="#514134">木材ごとの香りの違いを飲み比べで楽しめる。</text>
+</svg>

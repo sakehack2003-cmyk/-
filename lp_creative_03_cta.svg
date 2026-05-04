@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs><linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#191919"/><stop offset="100%" stop-color="#5F4123"/></linearGradient></defs>
+  <rect width="1080" height="1920" fill="url(#bg3)"/>
+  <text x="80" y="260" fill="#fff" font-size="72" font-weight="700">
+    <tspan x="80" dy="0">あなたの「理想の一杯」を</tspan>
+    <tspan x="80" dy="90">今日から。</tspan>
+  </text>
+  <text x="80" y="530" fill="#EBDCBF" font-size="38">ウイスキー、日本酒、焼酎、ラム。組み合わせ次第で味わいは無限大。</text>
+  <rect x="80" y="740" width="920" height="240" rx="36" fill="#F5F0E6"/>
+  <text x="130" y="825" fill="#5A3C28" font-size="36">数量限定セット</text>
+  <text x="130" y="905" fill="#2D1E14" font-size="54" font-weight="700">販売ページへ</text>
+  <rect x="80" y="1080" width="920" height="140" rx="30" fill="#E8582C"/>
+  <text x="345" y="1165" fill="#fff" font-size="54" font-weight="700">今すぐチェック</text>
+</svg>
