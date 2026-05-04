@@ -16,3 +16,12 @@
 - 「わずか半日で、いつもの一杯を樽熟成の味わいへ。」
 - 「7種の国産銘木で、香りの違いを飲み比べ。」
 - 「あなたの理想の一杯を、今日から。」
+
+## 追加対応（項目ごと分割・プレビュー）
+- `split_items/feature_01.svg`
+- `split_items/feature_02.svg`
+- `split_items/feature_03.svg`
+
+ローカルプレビュー用に `previews/index.html` を追加。3枚の本番用と分割パーツを同時比較できます。
+
+PNG書き出しが必要な場合は `./export_images.sh` を実行してください（`inkscape` が必要）。
