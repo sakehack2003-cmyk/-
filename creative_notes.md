@@ -25,3 +25,7 @@
 ローカルプレビュー用に `previews/index.html` を追加。3枚の本番用と分割パーツを同時比較できます。
 
 PNG書き出しが必要な場合は `./export_images.sh` を実行してください（`inkscape` が必要）。
+
+## Windows + Chromeで見れない場合
+`WINDOWS_PREVIEW.md` の手順どおり、`python -m http.server` でローカルサーバーを立てて
+`http://localhost:8000/previews/index.html` をChromeで開いてください。
